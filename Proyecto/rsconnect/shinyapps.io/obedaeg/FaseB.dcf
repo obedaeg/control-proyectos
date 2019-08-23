@@ -1,0 +1,12 @@
+name: FaseB
+title: FaseB
+username:
+account: obedaeg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1108004
+bundleId: 2347019
+url: https://obedaeg.shinyapps.io/FaseB/
+when: 1566527563.69286
+asMultiple: FALSE
+asStatic: FALSE
